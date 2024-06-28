@@ -1,10 +1,8 @@
 'Area: Bridge':
   - changed-files:
       - any-glob-to-any-file:
-          - packages/uniforms-bridge-graphql/**/*
           - packages/uniforms-bridge-json-schema/**/*
           - packages/uniforms-bridge-simple-schema-2/**/*
-          - packages/uniforms-bridge-simple-schema/**/*
           - packages/uniforms-bridge-zod/**/*
 'Area: Core':
   - changed-files:
@@ -43,25 +41,15 @@
   - changed-files:
       - any-glob-to-any-file:
           - packages/uniforms-antd/**/*
-          - packages/uniforms-bootstrap3/**/*
           - packages/uniforms-bootstrap4/**/*
           - packages/uniforms-bootstrap5/**/*
-          - packages/uniforms-material/**/*
           - packages/uniforms-mui/**/*
           - packages/uniforms-semantic/**/*
           - packages/uniforms-unstyled/**/*
-'Bridge: GraphQL':
-  - changed-files:
-      - any-glob-to-any-file:
-          - packages/uniforms-bridge-graphql/**/*
 'Bridge: JSON Schema':
   - changed-files:
       - any-glob-to-any-file:
           - packages/uniforms-bridge-json-schema/**/*
-'Bridge: SimpleSchema':
-  - changed-files:
-      - any-glob-to-any-file:
-          - packages/uniforms-bridge-simple-schema/**/*
 'Bridge: SimpleSchema (v2)':
   - changed-files:
       - any-glob-to-any-file:
@@ -74,10 +62,6 @@
   - changed-files:
       - any-glob-to-any-file:
           - packages/uniforms-antd/**/*
-'Theme: Bootstrap 3':
-  - changed-files:
-      - any-glob-to-any-file:
-          - packages/uniforms-bootstrap3/**/*
 'Theme: Bootstrap 4':
   - changed-files:
       - any-glob-to-any-file:
@@ -86,10 +70,6 @@
   - changed-files:
       - any-glob-to-any-file:
           - packages/uniforms-bootstrap5/**/*
-'Theme: Material-UI':
-  - changed-files:
-      - any-glob-to-any-file:
-          - packages/uniforms-material/**/*
 'Theme: MUI':
   - changed-files:
       - any-glob-to-any-file:
